@@ -1,6 +1,6 @@
 .maincontainer
 {
-	background: url('D:/Sukanya Task/JsTask1 - soundkey/assets/Images/bgimg.jpg') no-repeat center center;
+	background: url('../Images/bgimg.jpg') no-repeat center center;
 	background-size: cover;
 	height: 100vh;
 
